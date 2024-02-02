@@ -1,0 +1,14 @@
+.otroBoton {
+    display: inline-block;
+    padding: 15px 30px;
+    margin-top: 50px; /* Ajusta el relleno según tus preferencias */
+    margin-left: 0; /* Cambia el valor según tu preferencia para moverlo a la izquierda */
+    margin-right: auto;
+    font-size: 20px; /* Ajusta el tamaño de la fuente según tus preferencias */
+    color: #fff; /* Color del texto */
+    background-color: #28a745; /* Color de fondo del botón */
+    border: 1px solid #28a745; /* Borde del botón */
+    border-radius: 8px; /* Borde redondeado */
+    cursor: pointer;
+    text-decoration: none; /* Elimina el subrayado predeterminado en los enlaces */
+  }
